@@ -1,0 +1,9 @@
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\bin\Debug\AllSpaceCrafts.exe.config
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\bin\Debug\AllSpaceCrafts.exe
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\bin\Debug\AllSpaceCrafts.pdb
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\obj\Debug\AllSpaceCrafts.csprojAssemblyReference.cache
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\obj\Debug\AllSpaceCrafts.Properties.Resources.resources
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\obj\Debug\AllSpaceCrafts.csproj.GenerateResource.cache
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\obj\Debug\AllSpaceCrafts.csproj.CoreCompileInputs.cache
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\obj\Debug\AllSpaceCrafts.exe
+C:\Users\76744\source\repos\AllSpaceCrafts\AllSpaceCrafts\obj\Debug\AllSpaceCrafts.pdb
